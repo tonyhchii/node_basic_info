@@ -1,0 +1,21 @@
+{
+  "name": "node_basic_info",
+  "version": "1.0.0",
+  "description": "basic node webapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node_basic_info"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "tonyhchii",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
